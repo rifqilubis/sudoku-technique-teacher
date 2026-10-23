@@ -11,6 +11,8 @@ use — not by how few clues it has.
 Runs entirely in your browser. No accounts, no tracking, no dependencies,
 no build step.
 
+**Live demo:** https://rifqilubis.github.io/sudoku-technique-teacher/
+
 ## Run it
 
 Open `index.html` in a browser. That is the whole install.
